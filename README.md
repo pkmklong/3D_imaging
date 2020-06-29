@@ -1,1 +1,1 @@
-# med_imaging
+# 3D_imaging
